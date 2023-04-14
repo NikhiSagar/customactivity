@@ -8,7 +8,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Custom JB Activity",
+            "name": "Nikhil-Custom",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
