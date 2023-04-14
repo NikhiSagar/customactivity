@@ -37,6 +37,7 @@ module.exports = function configJSON(req) {
         }
       },
       configurationArguments: {
+      "applicationExtensionKey": "bbc96343-224f-457c-9e65-ac33ea26821e",
         publish: {
           url: `https://nikhil.herokuapp.com/modules/discount-code/publish`
         },
